@@ -1,4 +1,4 @@
-<p align="center"> <img src="SkinSight.png" width="400" height="450" /> </p>
+<p align="center"> <img src="SkinSight.png" width="500" height="450" /> </p>
 
 # Team Members
 
