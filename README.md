@@ -16,6 +16,6 @@
 | Paths | Link |
 | :---: | :---: |
 | Mobile Development | [Github](github.com/yudhah52/Skin-Sight-Apps) |
-|  Machine Learning  |  [Github](https://github.com/vitoananda/SkinSight-User-AP), [Github](https://github.com/fadel20azka/SkinSight-Article-API)  |
-|   Cloud Computing  |   [Github]( https://github.com/RidwendDev/DeepLearningPro-SkinSight)  |
+|  Cloud Computing  |  [UserAPI](https://github.com/vitoananda/SkinSight-User-AP), [ArticleAPI](https://github.com/fadel20azka/SkinSight-Article-API)  |
+|   Machine Learning  |   [Github]( https://github.com/RidwendDev/DeepLearningPro-SkinSight)  |
 
