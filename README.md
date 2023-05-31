@@ -1,4 +1,4 @@
-<p align="center"> <img src="SkinSight.png" width="200" height="200" /> </p>
+<p align="center"> <img src="SkinSight.png" width="400" height="400" /> </p>
 
 # Team Members
 
@@ -10,4 +10,12 @@
 |      Yudha Haryoputranto     | A304DSX1428 | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/yudha-haryoputranto/)|
 |     Vito Rizqi Ananda     | C306DSX2413 |   Cloud Computing  |              [LinkedIn](https://www.linkedin.com/in/vito-rizqi-ananda/)|
 | Muhammad Fadel Azka | C306DSX2950 |   Cloud Computing  |     [LinkedIn](https://www.linkedin.com/in/m-fadel-azka/)|
+
+# Repositories
+
+| Paths | Link |
+| :---: | :---: |
+| Mobile Development | [Github](github.com/yudhah52/Skin-Sight-Apps) |
+|  Machine Learning  |  [Github](https://github.com/vitoananda/SkinSight-User-AP), [Github](https://github.com/fadel20azka/SkinSight-Article-API)  |
+|   Cloud Computing  |   [Github]( https://github.com/RidwendDev/DeepLearningPro-SkinSight)  |
 
