@@ -17,5 +17,5 @@
 | :---: | :---: |
 | Mobile Development | [Github](https://github.com/yudhah52/Skin-Sight-Apps.git) |
 |  Cloud Computing  |  [UserAPI](https://github.com/vitoananda/SkinSight-User-API), [ArticleAPI](https://github.com/fadel20azka/SkinSight-Article-API), [DiseaseDetectionAPI](https://github.com/vitoananda/SkinSight-disease-detection-API.git), [SkintoneDetectionAPI](https://github.com/vitoananda/SkinSight-tone-detection-API.git)  |
-|   Machine Learning  |   [Github]( https://github.com/RidwendDev/DeepLearningPro-SkinSight)  |
+|   Machine Learning  |   [Github]( https://github.com/RidwendDev/DeepLearningPro-SkinSight), [SkinDiseaseDataset](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000), [SkinTonesDataset](https://www.kaggle.com/datasets/sherlard/mst-dataset)  |
 
